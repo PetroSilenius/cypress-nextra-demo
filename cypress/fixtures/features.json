@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mdx",
+    "title": "MDX"
+  },
+  {
+    "id": "ssg",
+    "title": "Next.js SSG"
+  },
+  {
+    "id": "i18n",
+    "title": "Next.js I18n"
+  },
+  {
+    "id": "image",
+    "title": "Next.js Image"
+  },
+  {
+    "id": "themes",
+    "title": "Themes"
+  }
+]
