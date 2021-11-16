@@ -7,7 +7,8 @@
     "dev": "next",
     "start": "next start",
     "build": "next build",
-    "cypress": "cypress open"
+    "cypress:open": "cypress open",
+    "cypress": "cypress run"
   },
   "author": "Shu Ding",
   "license": "MIT",
