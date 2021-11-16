@@ -5,5 +5,5 @@ yarn-error.log
 dist
 examples
 packages
-package-lock.json
 yarn.lock
+cypress/videos/
