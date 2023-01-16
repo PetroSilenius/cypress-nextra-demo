@@ -14,9 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "cypress": "^9.0.0",
-    "next": "^11.0.1",
+    "next": "^13.1.2",
     "nextra": "^1.1.0",
-    "nextra-theme-docs": "^1.2.2",
+    "nextra-theme-docs": "^2.2.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
